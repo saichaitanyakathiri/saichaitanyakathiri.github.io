@@ -1161,6 +1161,7 @@ ul#category li a:hover{
 .workDesc a:hover{
 
 	color:#666666;
+	cursor: pointer;
 }
 
 .folioImg img {
